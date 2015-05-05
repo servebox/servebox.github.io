@@ -1,0 +1,42 @@
+{% if post.layout == 'card' %}
+  {% capture link %}{{ post.external_url }}{% endcapture %}
+  {% capture content %}{{ post.content }}{% endcapture %}
+{% else %}
+  {% capture link %}{{ post.url | prepend: site.baseurl }}{% endcapture %}
+  {% capture content %}{{ post.excerpt }}{% endcapture %}
+{% endif %}
+<li class="{{ post.layout }}">
+  <div>
+    <time class="post-meta" datetime='{{post.date | date: "%Y-%m-%d"}}'>
+      {{ post.date | date: "%b %-d, %Y" }}
+    </time>
+    <h2>
+      <a class="post-link" href="{{ link }}">{{ post.title }}</a>
+    </h2>
+    {% if post.thumbnail %}
+      <a href="{{ link }}" class="thumbnail">
+        <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
+      </a>
+      <div class="credits">
+        {% if post.thumbnail_credits %}
+          Credits: {{ post.thumbnail_credits }}
+          {% if post.license %}
+            {% assign license = site.data.licenses[post.license] %}
+            <a href="{{ license.url }}">{{ license.name }}</a>
+          {% endif %}
+        {% endif %}
+      </div>
+    {% endif %}
+    {{ content }}
+    {% if post.author_comments %}
+    {% include discuss.html post=post %}
+    {% endif %}
+    <nav class="post-tags">
+      <ul>
+        {% for tag in post.tags %}
+        <li><a href="/tags/{{ tag }}">{{ site.data.tags[tag] }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</li>

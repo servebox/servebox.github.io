@@ -1,0 +1,12 @@
+<aside>
+  {{ post.author_comments }}
+</aside>
+{% assign author = site.data.people[post.author] %}
+<div class="author">
+  <i class="avatar"><img src="http://www.gravatar.com/avatar/{{ author.gravatar }}.png?s=50"></i>
+  {% if author.twitter %}
+    <a href="https://twitter.com/{{ author.twitter }}">{{ author.name }}</a>
+  {% else %}
+    {{ author.name }}
+  {% endif %}
+</div>

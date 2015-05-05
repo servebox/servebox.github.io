@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
   <body>
-
     {% include header.html %}
-
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
-
     {% include footer.html %}
-
   </body>
-
+  <script src="/assets/masonry.pkgd.min.js"></script>
+  <script>
+  var container = document.querySelector('.post-list');
+  var msnry = new Masonry( container, {
+    // options
+    itemSelector: ['li.card', 'li.post']
+  });
+  </script>
 </html>

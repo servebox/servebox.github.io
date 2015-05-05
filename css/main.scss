@@ -6,28 +6,29 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: Lato, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.4;
 
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$background-color: #f7f7f7;
+$brand-color:      #dc8325;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark:  #616161;
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1280px;
+$header-height:    350px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
+$on-phone:         480px;
+$on-tablet:        768px;
+$on-laptop:        990px;
+$on-desktop:       1279px;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {

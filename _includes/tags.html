@@ -1,0 +1,9 @@
+<nav class="tags">
+  <ul>
+    {% for tag in site.data.tags %}
+      <li class="{% if page.tag == tag[0] %}active{% endif %}">
+        <a href="/tags/{{ tag[0] }}">{{ tag[1] }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
