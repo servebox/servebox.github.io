@@ -367,13 +367,13 @@ nav.tags {
 
 .author{
   margin-bottom: $spacing-unit;
+  font-size: 1.25em;
   .avatar img{
     width: 50px;
     height: 50px;
     border-radius: 50%;
   }
   a{
-    font-size: 1.25em;
     &, &:visited {
       color: #fff;
     }
