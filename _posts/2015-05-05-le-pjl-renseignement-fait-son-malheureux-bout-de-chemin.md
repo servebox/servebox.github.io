@@ -6,7 +6,7 @@ tags:
   - privacy
 author: jef
 thumbnail: /images/pjlrenseignement-assnat.png
-external_url: http://mediapart.fr
+external_url: http://www.nextinpact.com/news/94007-loi-renseignement-qui-a-vote-quoi.htm
 author_comments: >
   No comment
 ---
