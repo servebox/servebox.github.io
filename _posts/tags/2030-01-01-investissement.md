@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag: invest
-permalink: /tags/investissement/
+permalink: /tags/invest/
 ---
