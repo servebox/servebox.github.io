@@ -9,7 +9,7 @@ author: camille
 thumbnail: /images/photo-investissement.jpg
 external_url: http://business.lesechos.fr/entrepreneurs/financer-sa-creation/l-amorcage-une-tendance-de-fond-pour-les-acteurs-du-financement-110629.php#
 author_comments: >
-  Partech Ventures et ISAI dans les starting blockspour trouver les start-ups pépites et les faire grossir !
+  Partech Ventures et ISAI dans les starting blocks pour trouver les start-ups pépites et les faire grossir !
 
 ---
 
