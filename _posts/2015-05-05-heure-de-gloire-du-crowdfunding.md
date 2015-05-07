@@ -1,6 +1,6 @@
 ---
 layout: card
-title:  "Les 2e Assises de la Finance Participative confirment la croissance du crowdfunding en France."
+title:  "Les 2e Assises de la Finance Participative confirment la croissance du crowdfunding en France"
 date:   2015-05-05 07:32:56
 tags:
   - crowdfunding
