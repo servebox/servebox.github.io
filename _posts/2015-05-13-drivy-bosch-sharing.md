@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Drivy et Bosch lancent la consommation collaborative d'entreprise"
-date:   2015-05-13 10:32:56
+date:   2015-05-13 10:02:56
 tags:
   - consocollab
 author: camille
