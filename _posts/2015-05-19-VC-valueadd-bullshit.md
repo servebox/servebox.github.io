@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Generic operational support resources won't help innovative startups"
-date:   2015-05-13 10:02:56
+date:   2015-05-19 10:02:56
 tags:
   - invest
 author: camille
