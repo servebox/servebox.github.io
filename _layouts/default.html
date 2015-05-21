@@ -11,11 +11,15 @@
     {% include footer.html %}
   </body>
   <script src="/assets/masonry.pkgd.min.js"></script>
+  <script src="/assets/imagesloaded.pkgd.min.js"></script>
   <script>
   var container = document.querySelector('.post-list');
   var msnry = new Masonry( container, {
     // options
     itemSelector: ['li.card', 'li.post']
+  });
+  imagesLoaded( container, function() {
+    msnry.layout();
   });
   </script>
 </html>
