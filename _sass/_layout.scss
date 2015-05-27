@@ -379,3 +379,25 @@ nav.tags {
     }
   }
 }
+
+.wrapper > .post {
+
+  padding: 3em 6em;
+
+  @include media-query($on-laptop) {
+    padding: 2em 4em;
+  }
+
+  @include media-query($on-tablet) {
+    padding: 1em 2em;
+  }
+
+  @include media-query($on-phone) {
+    padding: 0.5em;
+  }
+
+
+  p {
+    text-align: justify;
+  }
+}
