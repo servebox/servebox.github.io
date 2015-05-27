@@ -28,7 +28,7 @@
       </div>
     {% endif %}
     {{ content }}
-    {% if post.author_comments %}
+    {% if post.author %}
     {% include discuss.html post=post %}
     {% endif %}
     <nav class="post-tags">
