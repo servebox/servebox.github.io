@@ -8,7 +8,7 @@ author: benjamin
 thumbnail: /images/git_icon.png
 external_url: http://endoflineblog.com/gitflow-considered-harmful
 author_comments: >
-  Présentation de l'Anti-gitflow une méthode de travail alternative sur git, utilisée par servebox !
+  Présentation de l'Anti-gitflow une méthode de travail alternative sur git, utilisée par ServeBox !
 ---
 
 "GitFlow advocates having two eternal branches - master and develop. Why two, when one is the conventional standard?"
