@@ -340,6 +340,34 @@ nav.tags {
 .post-content {
     margin-bottom: $spacing-unit;
 
+    table {
+      border-collapse: collapse;
+      border-spacing: 0px;
+      box-sizing: border-box;
+      margin: 1.6em 0px;
+      width: 100%;
+      max-width: 100%;
+      background-color: transparent;
+
+      th, td {
+        padding: 8px;
+        line-height: 20px;
+        text-align: left;
+        vertical-align: top;
+        border-top: 1px solid #EFEFEF;
+      }
+
+      tbody > tr:nth-child(odd){
+        & > td, & > th {
+          background-color: #f6f6f6;
+        }
+      }
+
+      th{
+        color: #000;
+      }
+    }
+
     h2 {
         font-size: 32px;
 
