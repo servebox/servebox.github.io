@@ -10,3 +10,5 @@ external_url: http://www.franceculture.fr/emission-place-de-la-toile
 author_comments: >
   Profitez de l'été pour (re)découvrir l'émission de Xavier de La Porte « Place de la toile »
 ---
+Place de la toile était une émission de radio, sur France Culture, qui traitait d'Internet, des nouvelles technologies et de leur rapport à la société.
+Cette émission a été diffusée de 2007 à 2014.
