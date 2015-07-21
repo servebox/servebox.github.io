@@ -4,7 +4,7 @@ title: Polygons
 description: >
   Polygons @ServeBox: it's about tech, UI/UX, startups, makers and other cool stuff.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "polygons.servebox.com" # the base hostname & protocol for your site
+url: "http://polygons.servebox.com" # the base hostname & protocol for your site
 twitter_username: ServeBox
 github_username:  ServeBox
 
