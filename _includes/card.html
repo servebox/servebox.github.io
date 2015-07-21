@@ -6,6 +6,7 @@
   {% capture content %}{{ post.excerpt }}{% endcapture %}
 {% endif %}
 <li class="{{ post.layout }}">
+  <a name="{{ post.id }}"></a>
   <div>
     <time class="post-meta" datetime='{{post.date | date: "%Y-%m-%d"}}'>
       {{ post.date | date: "%b %-d, %Y" }}
