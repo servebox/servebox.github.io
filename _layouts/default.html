@@ -20,6 +20,9 @@
   });
   imagesLoaded( container, function() {
     msnry.layout();
+    former = window.location.href;
+    window.location.href = '/';
+    window.location.href = former;
   });
   </script>
 </html>
