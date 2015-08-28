@@ -21,7 +21,7 @@ Le premier défi concerne la complexité de parler de la “substantifique moell
 La tendance du moment est de vouloir “monter sa boite”, “lancer son app”, “ouvrir son tiers-lieu”. Un peu comme si la vie d’entrepreneur devenait l’aspiration d’une génération en lettres, un rêve commun par lequel tout un chacun s’accomplirait. Loin de moi l’idée de dire que cette tendance ne reflète pas la réalité. Les envies de flexibilité, le besoin de modularité et la notion d’impact social sont réels. Mais de là à “vouloir changer le monde” avec tout type d’idée, à la _[Silicon Valley](http://www.hbo.com/silicon-valley)_, la limite peut s’avérer assez fine :
 
 <div style="text-align: center">
-![](/images/better-place.gif)
+  <img src='/images/better-place.gif'/>
 </div>
 
 *(Un faux pitch à la TechCrunch Disrupt, [Silicon Valley](http://www.hbo.com/silicon-valley) (série TV), HBO)*
@@ -31,6 +31,7 @@ L’approche que nous défendons chez [ServeBox](http://www.servebox.com) est pl
 ![](/images/french-tech-petit.png)
 
 Derrière ce générateur de pitchs, la conviction de [Julien Dubedout](https://twitter.com/mariejulien) & [Olivier Bergère](https://twitter.com/heybrgr), résumée dans l’à propos :
+
 <div class="quote">
 Tout démarre par une anecdote tellement simple que tout le monde y a un jour été confronté. [...] Ces anecdotes sont les points de départ utilisés par certaines startups pour construire leur modèle économique : des problèmes de gens normaux, mais qui ont pourtant donné naissance à des empires.
 Mais qu'ont fait ces entrepreneurs pour avoir tant de succès ? [...]<br/>
