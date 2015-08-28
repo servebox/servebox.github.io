@@ -22,15 +22,15 @@ La tendance du moment est de vouloir “monter sa boite”, “lancer son app”
 
 <div style="text-align: center">
   <img src='/images/better-place.gif'/>
+  <i>(Un faux pitch à la TechCrunch Disrupt, <a href='http://www.hbo.com/silicon-valley'>Silicon Valley</a> (série TV), HBO)</i>
 </div>
-
-*(Un faux pitch à la TechCrunch Disrupt, [Silicon Valley](http://www.hbo.com/silicon-valley) (série TV), HBO)*
 
 L’approche que nous défendons chez [ServeBox](http://www.servebox.com) est plutôt de **soutenir ceux qui créent une valeur réelle, qu’elle soit sociale ou économique, un nouvel usage.** Je me souviens d’un site qui avait fait parler de lui au moment de mon arrivée : [frenchtech.co](http://www.frenchtech.co). Il résume très bien ce rêve doré de “startupper” vendu par ci et par là.
 
 <div style="text-align: center">
   <img src='/images/french-tech-petit.png'/>
 </div>
+
 
 Derrière ce générateur de pitchs, la conviction de [Julien Dubedout](https://twitter.com/mariejulien) & [Olivier Bergère](https://twitter.com/heybrgr), résumée dans l’à propos :
 
