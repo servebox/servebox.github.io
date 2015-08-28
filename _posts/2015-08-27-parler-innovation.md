@@ -28,7 +28,9 @@ La tendance du moment est de vouloir “monter sa boite”, “lancer son app”
 
 L’approche que nous défendons chez [ServeBox](http://www.servebox.com) est plutôt de **soutenir ceux qui créent une valeur réelle, qu’elle soit sociale ou économique, un nouvel usage.** Je me souviens d’un site qui avait fait parler de lui au moment de mon arrivée : [frenchtech.co](http://www.frenchtech.co). Il résume très bien ce rêve doré de “startupper” vendu par ci et par là.
 
-![](/images/french-tech-petit.png)
+<div style="text-align: center">
+  <img src='/images/french-tech-petit.png'/>
+</div>
 
 Derrière ce générateur de pitchs, la conviction de [Julien Dubedout](https://twitter.com/mariejulien) & [Olivier Bergère](https://twitter.com/heybrgr), résumée dans l’à propos :
 
