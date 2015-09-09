@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Geek news"
-date:   2015-09-16 09:09:20
+date:   2015-09-09 10:09:59
 tags:
   - tech
   - nerd-moment

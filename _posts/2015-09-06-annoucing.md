@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Announcements of the week"
-date:   2015-09-16 09:09:20
+date:   2015-09-06 09:09:20
 tags:
   - tech
 author: benjamin
