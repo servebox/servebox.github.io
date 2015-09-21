@@ -391,6 +391,16 @@ nav.tags {
             font-size: 18px;
         }
     }
+
+    img {
+      display: block;
+      max-width: 100%;
+      margin: 0px auto;
+    }
+    .caption{
+      display: block;
+      text-align: center;
+    }
 }
 
 .author{
