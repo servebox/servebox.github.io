@@ -1,13 +1,13 @@
 ---
 layout: card
-title:  "C'est l'heure !"
-date:   2015-10-21 04:04:04
+title:  "Lets encrypt"
+date:   2015-10-20 10:11:23
 tags:
-  - nerd
-author: marty
-thumbnail: /images/giphy.gif
-external_url:
-  http://fr.wikipedia.org/wiki/Retour_vers_le_futur_2
+  - tech
+author: benjamin
+thumbnail: /images/encrypt.png
+external_url: https://letsencrypt.org/
 ---
 
-"Ça marche ! ha ha ha ha ha ha ! ça marche ! j'ai enfin réussi à inventer quelque chose qui marche !"
+Let’s Encrypt is a new Certificate Authority:
+It’s free, automated, and open.
