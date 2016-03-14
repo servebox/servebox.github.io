@@ -10,7 +10,7 @@
 
 `bundle install`
 
-#### launch server
+#### launch server (in a terminal)
 
 `bundle exec jekyll serve --watch`
 
