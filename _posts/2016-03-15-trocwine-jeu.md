@@ -14,7 +14,7 @@ Nous travaillons en ce moment avec la startup [TrocWine](http://www.trocwine.com
 
 Directement inspiré du principe d’expérimentation du Lean Startup, le jeu créé permettait aux participants de s’échanger des bouteilles virtuelles … pour gagner de vraies bonnes bouteilles (trois étaient à gagner). Nous avons eu la chance d’être accueillis par le [VinoCamp](http://vinocamp.fr/) qui s’est tenu à Marseille fin février - merci à eux ! **Comme toute expérimentation, ce jeu est perfectible, mais nous nous sommes bien amusés et avions envie de partager cette expérience.**
 
-##Étape 1 : Créer le jeu
+## Étape 1 : Créer le jeu
 
 L’objectif est de faire évoluer les participants - les joueurs - dans un cadre et avec des variables que nous avions définies - les règles du jeu.
 
@@ -46,7 +46,7 @@ A chaque question que nous nous posions, nous avons construit un élément du je
 </div>
 <br/>
 
-##Étape 2 : Animer le jeu
+## Étape 2 : Animer le jeu
 
 Après une séance de découpage des cartes de vins et les bouteilles à faire gagner trouvées, nous arrivons au [VinoCamp](http://vinocamp.fr/) de Marseille le jeu fin prêt. Une quinzaine de joueurs nous attendent de pied ferme et nous voilà partis pour l’expérimentation.
 
@@ -58,7 +58,7 @@ A ce moment-là, la forme compte autant que le fond : les cartes doivent être j
 </div>
 <br/>
 
-##Étape 3 : Anticiper les indicateurs importants
+## Étape 3 : Anticiper les indicateurs importants
 
 Une des clés de l’approche Lean Startup est de mesurer chacune de vos expérimentations, pour **lutter contre vos propres intuitions**. La réalité du terrain, et en particulier dans le cas d’un jeu, est que vous ne pouvez pas tout mesurer tout le temps et permettre la spontanéité des participants.
 
@@ -66,7 +66,7 @@ Dans notre cas, nous avions donné aux joueurs un relevé de caves à remplir à
 
 Quoiqu’il en soit, préparer le jeu était aussi **préparer ses grilles d’indicateurs.**
 
-##Étape 4 : Quelques bribes de ce que nous avons appris
+## Étape 4 : Quelques bribes de ce que nous avons appris
 
 Si ce jeu ne représente qu’un bout de réalité, il a néanmoins **mis en perspective plusieurs de nos intuitions** sur [TrocWine](http://www.trocwine.com/) et son futur développement.
 
