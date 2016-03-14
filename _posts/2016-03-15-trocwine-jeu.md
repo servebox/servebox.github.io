@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Expérimenter par le jeu : l'exemple de TrocWine"
-date:   2016-03-15 07:00:15
+date:   2016-03-14 07:00:15
 tags:
 author: camille
 thumbnail: /images/Trocwine-logo.jpg
