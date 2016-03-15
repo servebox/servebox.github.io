@@ -8,7 +8,7 @@ thumbnail: /images/Trocwine-logo.jpg
 ---
 ***Pour notre client TrocWine, nous avons mené une expérimentation par le jeu. Retour d'expérience.***
 
-Chez [ServeBox](https://servebox.com/), nous aimons nous impliquer sur le terrain avec nos clients pour tester des concepts dans la vraie vie, avec de vrais utilisateurs.
+Chez [ServeBox](https://servebox.com/), nous aimons nous impliquer sur le terrain avec nos clients pour tester des concepts dans la vraie vie, avec de vrais utilisateurs. Et nous aimons mettre notre créativité à rude épreuve pour valider des concepts et des idées.
 
 Nous travaillons en ce moment avec la startup [TrocWine](http://www.trocwine.com/) et son fondateur Arthur. Son concept est de proposer à des amateurs de vin d’échanger leurs bouteilles et de “constituer leur cave sans dépenser un centime”. Le site est lancé depuis quelques mois, mais pour **tester le concept et apprendre du comportement des utilisateurs, nous avons décidé de créer un jeu.**
 
@@ -20,7 +20,7 @@ L’objectif est de faire évoluer les participants - les joueurs - dans un cadr
 
 A chaque question que nous nous posions, nous avons construit un élément du jeu - et aussi grâce à un beta-test avec toute l’équipe de [ServeBox](https://servebox.com/).
 
-*Quelles sont les bouteilles échangées sur [TrocWine](http://www.trocwine.com/) et en général ?* Comment faire une typologie que tout le monde accepte et comprend ? Comment catégoriser sans perdre l’affect lié à une bouteille de vin ? Nous avons défini quatre catégories de vins, pondérées par un certain nombre d’étoiles, laissant au joueur remplir une carte pour préciser la bouteille exacte :
+*Quelles sont les bouteilles échangées sur [TrocWine](http://www.trocwine.com/) et en général ?* Comment faire une typologie que tout le monde accepte et comprend ? Comment catégoriser sans perdre l’affect lié à une bouteille de vin ? Nous avons défini quatre catégories de vins, pondérées par un certain nombre d’étoiles, laissant le joueur remplir une carte pour préciser la bouteille exacte :
 
 <br/>
 <div style="text-align: center">
@@ -28,13 +28,12 @@ A chaque question que nous nous posions, nous avons construit un élément du je
 </div>
 <br/>
 
-*Pourquoi les joueurs veulent-ils troquer ?* Nous avons proposé des objectifs à atteindre pour tout amateur de vin. Les joueurs pouvaient choisir parmi quatre objectifs :
+*Pourquoi les joueurs veulent-ils troquer ?* Nous avons proposé des objectifs à atteindre, que tout amateur de vin pourrait avoir. Les joueurs pouvaient choisir parmi quatre objectifs :
 
  - Région : rassemblez le plus de bouteilles de votre région favorite
  - Équilibre : constituez la cave la plus équilibrée en catégorie de bouteilles
- - Précieux : constituez la cave avec les bouteilles de vin les
-   plus précieuses
- - Partage : accumulez le plus de bouteilles possibles pour les partager avec vos amis
+ - Précieux : constituez la cave avec les bouteilles de vin les plus précieuses
+ - Partage : accumulez le plus de bouteilles pour les partager avec vos amis
 
 *Quelle est la modalité d’échange la plus pratique pour les joueurs ?* Actuellement, le site [TrocWine](http://www.trocwine.com/) propose d’échanger bouteille(s) contre bouteille(s), sans valeur monétaire associée. Est-ce que d’autres manières d’échanger fonctionneraient mieux ? Nous avons déterminé plusieurs manches pour le jeu, une modalité d’échanges différentes par manche.
 
@@ -48,7 +47,7 @@ A chaque question que nous nous posions, nous avons construit un élément du je
 
 ## Étape 2 : Animer le jeu
 
-Après une séance de découpage des cartes de vins et les bouteilles à faire gagner trouvées, nous arrivons au [VinoCamp](http://vinocamp.fr/) de Marseille le jeu fin prêt. Une quinzaine de joueurs nous attendent de pied ferme et nous voilà partis pour l’expérimentation.
+Les cartes à jouer découpées et les bouteilles à faire gagner trouvées, nous arrivons au [VinoCamp](http://vinocamp.fr/) de Marseille le jeu fin prêt. Une quinzaine de joueurs nous attendent de pied ferme et nous voilà partis pour l’expérimentation.
 
 A ce moment-là, la forme compte autant que le fond : les cartes doivent être jolies, pratiques. Le but du jeu doit être bien compris. Surtout, le jeu doit se dérouler le mieux possible. L’arme secrète ? **Un script pour le maître du jeu.** Il permet de n’oublier aucune étape et surtout d’avoir une trace écrite à améliorer à chaque édition.
 
@@ -75,7 +74,9 @@ La valeur de monétaire de la bouteille est-elle nécessaire pour troquer ? Si l
 
 Nous avions surtout peur que le jeu “ne prenne pas”. Au contraire, les participants se sont tous prêtés au jeu et avec enthousiasme. Si bien que nous avons dû les arrêter !
 
-**Voilà pour cette première aventure de notre jeu, mais d’autres se préparent !**
+Sans vous révéler tous les résultats, nous sommes satisfaits du jeu et de ce que nous avons appris, sur le Lean Startup en action et pour [TrocWine](http://www.trocwine.com/).
+
+**Cette nouvelle aventure d'expérimentation par le jeu s'arrête ici, mais d’autres se préparent !**
 
 Pour suivre les aventures du TrocWine, vous pouvez [vous inscrire sur le site](http://www.trocwine.com/), la suivre [sur Twitter](https://twitter.com/trocwine), voire votez pour elle pour [la startup de l’année sur BonjourIdée](http://bonjouridee.com/trocwine/).
 
