@@ -8,9 +8,9 @@ thumbnail: /images/Trocwine-logo.jpg
 ---
 ***Pour notre client TrocWine, nous avons mené une expérimentation par le jeu. Retour d'expérience.***
 
-Chez [ServeBox](https://servebox.com/), nous aimons nous impliquer sur le terrain avec nos clients pour tester des concepts dans la vraie vie, avec de vrais utilisateurs. Et nous aimons mettre notre créativité à rude épreuve pour valider des concepts et des idées.
+Chez [ServeBox](https://servebox.com/), nous aimons nous impliquer sur le terrain avec nos clients pour tester des concepts dans la vraie vie, avec de vrais utilisateurs. Pour cela, nous mettons notre créativité à rude épreuve pour valider des concepts et des idées.
 
-Nous travaillons en ce moment avec la startup [TrocWine](http://www.trocwine.com/) et son fondateur Arthur. Son concept est de proposer à des amateurs de vin d’échanger leurs bouteilles et de “constituer leur cave sans dépenser un centime”. Le site est lancé depuis quelques mois, mais pour **tester le concept et apprendre du comportement des utilisateurs, nous avons décidé de créer un jeu.**
+Nous travaillons en ce moment avec la startup [TrocWine](http://www.trocwine.com/) et son fondateur Arthur. La plate-forme propose à des amateurs de vin d’échanger leurs bouteilles et de “constituer leur cave sans dépenser un centime”. Elle est lancée depuis quelques mois, mais pour **tester le concept et apprendre du comportement des utilisateurs, nous avons décidé de créer un jeu.**
 
 Directement inspiré du principe d’expérimentation du Lean Startup, le jeu créé permettait aux participants de s’échanger des bouteilles virtuelles … pour gagner de vraies bonnes bouteilles (trois étaient à gagner). Nous avons eu la chance d’être accueillis par le [VinoCamp](http://vinocamp.fr/) qui s’est tenu à Marseille fin février - merci à eux ! **Comme toute expérimentation, ce jeu est perfectible, mais nous nous sommes bien amusés et avions envie de partager cette expérience.**
 
