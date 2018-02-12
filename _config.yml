@@ -10,3 +10,7 @@ github_username:  ServeBox
 
 # Build settings
 markdown: kramdown
+collections:
+  my_tags:
+    output: true
+    permalink: /tags/:name/
